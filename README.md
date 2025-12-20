@@ -16,9 +16,18 @@ The **Sales Dashboard** transforms raw sales data into meaningful insights using
   - Product
   - Sales_Amount
 
+The raw dataset is provided as a CSV file for reproducibility and transparency.
+
 -----
 
-The raw dataset is provided as a CSV file for reproducibility and transparency.
+# Business Goal:
+  Management wants to see:
+- Total Revenue.
+- Revenue by region
+- Revenue by product
+- Trends over time.
+
+-----
 
 # Tools and Skills Used:
   Google Sheets
