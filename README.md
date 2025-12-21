@@ -30,12 +30,12 @@ The raw dataset is provided as a CSV file for reproducibility and transparency.
 -----
 
 # Tools and Skills Used:
-  Google Sheets
-     - Pivot Tables.
-     - KPI Cards.
-     - Charts (Bar Chart, Line Chart, Donut Chart).
-     - Basic Excel Formulas (SUM, COUNT, AVERAGE).
-     - Dashboard Design & Formatting.
+Google Sheets
+- Pivot Tables.
+- KPI Cards.
+- Charts (Bar Chart, Line Chart, Donut Chart).
+- Basic Excel Formulas (SUM, COUNT, AVERAGE).
+- Dashboard Design & Formatting.
 
 -----
 
