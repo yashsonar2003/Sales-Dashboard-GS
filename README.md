@@ -47,7 +47,7 @@ Google Sheets
 -----
 
 # Dashboard Preview:
-![Sales Dashboard](Dashboard_Screenshot.png)
+![Dashboard Screenshot](Dashboard_Screenshot.png)
 
 -----
 
