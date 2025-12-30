@@ -47,7 +47,7 @@ Google Sheets
 -----
 
 # Dashboard Preview:
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![Dashboard Screenshot](Screenshot.png)
 
 -----
 
